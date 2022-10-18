@@ -73,6 +73,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
     <div className={styles.textCenter}>
+      <h1>This is some cool stuff!</h1>
       <StaticImage
         src="../images/example.png"
         loading="eager"
