@@ -96,6 +96,7 @@ const IndexPage = () => (
         <br />
         Edit <code>src/pages/index.js</code> to update this page.
       </p>
+      <h1>This is the beginning of a beautiful relationship</h1>
     </div>
     <ul className={styles.list}>
       {links.map(link => (
